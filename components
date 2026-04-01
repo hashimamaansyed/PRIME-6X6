@@ -1,0 +1,17 @@
+🔧 Components List:
+[1]Power System:
+-> 1 × 3S BMS (Battery Management System)
+[2]Motor Drivers:
+-> 2 × L298N Motor Driver Modules
+[3]Drive Motors (Movement)
+->6 × BO DC Motors:
+  ->4 × connected to Left L298N (Drive System)
+  ->2x connected to Right L298N (Drive System)
+[4]Control Unit:
+-> 1 × Raspberry Pi Pico 02W
+[5]Steering System:
+-> 1 × MG995 Servo Motor (used for turning mechanism / steering control)
+[6]Connections & Accessories:
+-> Jumper wires
+-> Breadboard / Power distribution
+-> Common Ground wiring (mandatory)
